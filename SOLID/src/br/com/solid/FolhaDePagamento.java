@@ -1,5 +1,5 @@
-package br.com.roda.java;
-import Remuneravel;
+package br.com.solid;
+
 public class FolhaDePagamento {
     public Double salario;
     
