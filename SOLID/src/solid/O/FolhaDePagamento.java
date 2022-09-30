@@ -4,11 +4,15 @@ public class FolhaDePagamento {
     private Double salario;
     private Remuneravel contrato;
     
+    /*Sobrecarga do método Construtor*/
+    public FolhaDePagamento() {}
+    
     /*D - Contructor Injection */
     public FolhaDePagamento( Remuneravel contrato ) {
     	this.contrato = contrato;
     }
     
+    /*Sobrecarga do método calcular*/
     public void calcular(  ) {
         this.salario = this.contrato.remuneracao();
     }

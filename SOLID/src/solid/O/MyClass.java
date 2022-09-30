@@ -7,10 +7,6 @@ public class MyClass {
 	        
 	        FolhaDePagamento obj_Contrato = new FolhaDePagamento(obj_tipo_contrato);
 	        obj_Contrato.calcular();
-	        obj_Contrato.printSalario();
-	        
-	    
-	     
+	        obj_Contrato.printSalario(); 
 	    }
-
 }
