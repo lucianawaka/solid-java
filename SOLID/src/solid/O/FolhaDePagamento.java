@@ -4,6 +4,7 @@ public class FolhaDePagamento {
     private Double salario;
     private Remuneravel contrato;
     
+    /*D - Contructor Injection */
     public FolhaDePagamento( Remuneravel contrato ) {
     	this.contrato = contrato;
     }
