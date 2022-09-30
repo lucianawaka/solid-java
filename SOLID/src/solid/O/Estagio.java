@@ -1,7 +1,7 @@
-package br.com.solid;
+package solid.O;
 
 class Estagio implements Remuneravel {
     public double remuneracao() {
-        return 10000.00;
+        return 740.00;
     }
 }

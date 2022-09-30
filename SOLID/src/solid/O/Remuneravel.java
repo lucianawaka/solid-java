@@ -1,4 +1,4 @@
-package br.com.solid;
+package solid.O;
 
 public interface Remuneravel {
 	public double remuneracao();

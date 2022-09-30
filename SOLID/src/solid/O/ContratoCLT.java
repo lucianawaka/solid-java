@@ -1,7 +1,7 @@
-package br.com.solid;
+package solid.O;
 
 public class ContratoCLT implements Remuneravel{
 	    public double remuneracao() {
-	        return 15000.00;
+	        return 8000.00;
 	    }
 }
