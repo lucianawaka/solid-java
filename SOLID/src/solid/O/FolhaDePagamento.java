@@ -13,7 +13,7 @@ public class FolhaDePagamento {
     }
     
     /*Sobrecarga do método calcular*/
-    public void calcular(  ) {
+    public void calcular() {
         this.salario = this.contrato.remuneracao();
     }
     
