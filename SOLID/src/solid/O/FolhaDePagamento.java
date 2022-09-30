@@ -13,6 +13,11 @@ public class FolhaDePagamento {
         this.salario = this.contrato.remuneracao();
     }
     
+    /*D - Injection through parameter*/   
+    public void calcular( Remuneravel contrato ) {
+        this.salario = contrato.remuneracao();
+    }
+    
     public void printSalario() {
         System.out.println("Salário:"+ this.salario);
     }
