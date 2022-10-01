@@ -1,7 +1,7 @@
 ### SOLID 
-- 5 princípios da programação orientada a objetos 
-- Facilitam no desenvolvimento de softwares, tornando-os fáceis de manter e estender. 
-- Podem ser aplicados a qualquer linguagem de POO.
+5 princípios da programação orientada a objetos 
+Facilitam no desenvolvimento de softwares, tornando-os fáceis de manter e estender. 
+Podem ser aplicados a qualquer linguagem de POO.
 
 O que é SOLID?
 SOLID é um acrônimo criado por Michael Feathers, 
